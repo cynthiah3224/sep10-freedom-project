@@ -1,0 +1,17 @@
+    <style>
+    
+      .img-container {
+        text-align: center;
+        display: block;
+      }
+        h5 {
+          text-align:center
+      }
+    .box {
+        border-style: solid;
+        border-color: black;
+        border-width: 5px;
+        text-align: center;
+      }
+        
+        
