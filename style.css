@@ -1,12 +1,20 @@
     <style>
     .d-block, li {
-    border: 2px solid blue;
-    padding: .5em;
+      display: block!important;
     }
     .img-fluid {
       float: middle; 
       width:50%;
-      height:50;
+      height:50%;
     }
-    
-        
+    img {
+      vertical-align: middle;
+      border-style: none;
+    }
+    .w-100 {
+      width: 100%!important;
+    }
+    p {
+      margin-top: 0;
+      margin-bottom: $paragraph-margin-bottom;
+    }
