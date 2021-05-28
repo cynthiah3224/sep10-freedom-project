@@ -1,17 +1,12 @@
     <style>
+    .d-block, li {
+    border: 2px solid blue;
+    padding: .5em;
+    }
+    .img-fluid {
+      float: middle; 
+      width:50%;
+      height:50;
+    }
     
-      .img-container {
-        text-align: center;
-        display: block;
-      }
-        h5 {
-          text-align:center
-      }
-    .box {
-        border-style: solid;
-        border-color: black;
-        border-width: 5px;
-        text-align: center;
-      }
-        
         
