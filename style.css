@@ -1,16 +1,22 @@
-    <style>
-    .d-block, li {
-      display: block!important;
-      vertical-align: middle;
-    }
-    img {
-      vertical-align: middle;
-      border-style: none;
-    }
-    .w-100 {
-      width: 100%!important;
-      vertical-align: middle;
-    }
+
     p {
       margin-top: 0;
+      text-align:center
     }
+    .heading {
+      display: table;
+      margin: 0 auto;
+      padding: 5px;
+    }
+    h5 {
+      text-align:center
+    }
+    .carousel-item a {
+    display: block;
+    width:100%;
+    }
+    .carousel-item .img-fluid {
+    width:100%;
+    height:auto;
+    }
+  
